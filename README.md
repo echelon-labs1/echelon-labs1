@@ -1,73 +1,70 @@
-# Aaron Perez  
-## Senior Python Backend Engineer | US Citizen | Fort Worth, TX  
+# Hi, I'm Aaron Perez 👋
 
-I design and build scalable backend systems using Python, Django, and cloud-native architecture.  
-Focused on high-performance APIs, distributed systems, data processing, and production-grade cloud deployments.
+Senior Software Engineer with 10+ years of experience building scalable enterprise applications using C#, .NET, and Azure. I specialize in backend architecture, microservices, and high-performance APIs.
 
----
+## About Me
 
-## 🧠 Core Expertise
+- Senior Software Engineer based in Texas
+- 10+ years of experience in C# and .NET development
+- Experienced in building scalable microservices and distributed systems
+- Strong background in Azure cloud architecture
+- Passionate about clean architecture, performance optimization, and reliable systems
 
-- Backend Architecture & API Design
-- Python (Django, Flask, FastAPI)
-- Microservices & Distributed Systems
-- PostgreSQL, Redis, SQL Optimization
-- Cloud-Native Systems (AWS, Azure)
-- Async Processing & Background Workers
-- Secure Authentication (OAuth2, JWT)
-- CI/CD & Containerized Deployments
+## Tech Stack
 
----
+**Languages**
+- C#
+- JavaScript
+- TypeScript
+- SQL
 
-## 🔹 Backend Stack
+**Backend**
+- .NET Core
+- ASP.NET Core
+- Web API
+- Entity Framework Core
+- SignalR
 
-**Languages:**  
-Python, SQL
+**Architecture**
+- Microservices
+- Domain Driven Design
+- CQRS
+- Clean Architecture
+- REST API Design
 
-**Frameworks:**  
-Django, Flask, FastAPI
+**Cloud & DevOps**
+- Microsoft Azure
+- Azure Functions
+- Azure Service Bus
+- Azure App Services
+- Azure DevOps
+- Docker
+- GitHub Actions
 
-**Databases:**  
-PostgreSQL, MySQL, Redis
+**Database**
+- SQL Server
+- Redis
+- Query Optimization
+- Indexing
 
-**Architecture:**  
-Microservices, Clean Architecture, REST APIs, Event-Driven Systems
+**Frontend**
+- Angular
+- TypeScript
+- HTML
+- CSS
 
-**Cloud & DevOps:**  
-AWS (EC2, S3, RDS, Lambda)  
-Azure (App Services, Service Bus, Redis)  
-Docker, Kubernetes, GitHub Actions
+## Professional Focus
 
----
+- Building scalable backend services
+- Designing high performance APIs
+- Modernizing legacy .NET systems
+- Cloud native application development
+- Performance tuning and distributed caching
 
-## 🚀 What I Build
+## Connect With Me
 
-- High-throughput RESTful APIs  
-- Scalable SaaS backends  
-- Data-intensive platforms  
-- Secure authentication systems  
-- Real-time and asynchronous processing pipelines  
-- Cloud-native microservices  
+LinkedIn  
+https://linkedin.com/in/aronr-perez
 
----
-
-## 🏗️ Engineering Principles
-
-- Clean, maintainable architecture
-- Performance-first backend design
-- Database optimization & indexing
-- Secure-by-design API development
-- Production-ready deployments
-- Observability & monitoring
-
----
-
-## 📫 Contact
-
-📍 Fort Worth, Texas  
-📧 aaronroperez@outlook.com  
-🔗 LinkedIn: linkedin.com/in/aaronr-perez  
-
----
-
-> Building reliable backend systems that scale.
+Email  
+aaronroperez@outlook.com
