@@ -1,5 +1,3 @@
-# Hi, I'm Aaron Perez 👋
-
 Senior Software Engineer with 10+ years of experience building scalable enterprise applications using C#, .NET, and Azure. I specialize in backend architecture, microservices, and high-performance APIs.
 
 ## About Me
@@ -60,11 +58,3 @@ Senior Software Engineer with 10+ years of experience building scalable enterpri
 - Modernizing legacy .NET systems
 - Cloud native application development
 - Performance tuning and distributed caching
-
-## Connect With Me
-
-LinkedIn  
-https://linkedin.com/in/aronr-perez
-
-Email  
-aaronroperez@outlook.com
