@@ -2,7 +2,6 @@ Senior Software Engineer with 10+ years of experience building scalable enterpri
 
 ## About Me
 
-- Senior Software Engineer based in Texas
 - 10+ years of experience in C# and .NET development
 - Experienced in building scalable microservices and distributed systems
 - Strong background in Azure cloud architecture
